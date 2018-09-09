@@ -18,7 +18,7 @@ $ node ./index.js
 ## runtimejs with kvm
 
 ```
-$ /path/to/runtimejs-cli start --kvm
+$ /path/to/runtimejs-cli/bin/runtimejs start --kvm
 ```
 
 ## docker
